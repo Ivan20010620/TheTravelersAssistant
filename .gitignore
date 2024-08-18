@@ -1,0 +1,7 @@
+.idea
+cache
+search_results.txt
+favourites*
+__pycache__
+assistant
+credentials.py
